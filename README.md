@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/sharepoint-for-developers-building-hosted-add-ins-video/9781788391870)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # SharePoint for Developers: Building Hosted Add-Ins [Video]
 This is the code repository for [SharePoint for Developers: Building Hosted Add-Ins [Video]](https://www.packtpub.com/virtualization-and-cloud/sharepoint-developers-building-hosted-add-ins-video?utm_source=github&utm_medium=repository&utm_campaign=9781788391870), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
